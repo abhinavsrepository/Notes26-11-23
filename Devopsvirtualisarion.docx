@@ -1,0 +1,19 @@
+virtualisation
+  multi os  at same time --> one service - one server(isolation)
+  server resource is underutilsied
+  virtual machine are isolated env
+  each virtual machine needs its own OS
+
+  HOST OS ==> 
+  GUEST OS ==>
+  VM VIRT MACH..
+  SNAPSHOT ==> TAKING BACKUP OF VIRTUAL AMCHINE
+  HYPERVISOR 
+  TYPE 1 ===> BARE METAL -- RUNS AS A BASE OS PRODUCTION -- CUSTER OF COMPTER
+  TYPE 2 RUNS AS A SOFTWARE 
+
+  IF TASK GIVEN TO AUTOMATE THEN FIRST DO IT MANUALLY
+
+  LINUX -- OPEN SOURCE..
+  LINUX EVERYTHING IS A FILE
+  
